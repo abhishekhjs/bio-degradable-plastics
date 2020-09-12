@@ -1,0 +1,109 @@
+#form{
+
+    text-align: left;
+    font-size:20px;
+    font-family: sans-serif;
+    padding: 10px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-style: initial;
+    
+    }
+    nav{
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: right;
+    color: white;
+    
+    
+    }
+    #intext{
+    height: 20px;
+    width: 150px;
+    border-radius: 5px;
+
+    }
+    h1{
+        font-size: 4em;
+        text-decoration: underline;
+        text-decoration-color: black;
+        text-decoration-line: 10px;
+      color:white; 
+      font-family: 'Oxygen', sans-serif;
+      display: inline;
+      
+    
+    }
+    #home:hover{
+        cursor: pointer;
+        
+        }
+    #login:hover{
+        cursor: pointer;
+
+
+    }
+    #about:hover{
+        cursor: pointer;
+
+    }
+    body{
+        background: rgb(96, 197, 214);
+   
+    }
+    #heading{
+        font-size: 5em;
+        text-decoration: underline;
+        text-decoration-color: black;
+        text-decoration-line: 10px;
+        color:white; 
+        font-family: 'Oxygen', sans-serif;
+    
+    }
+    #name{
+        width: 150px;
+        height: 20px;
+        
+    }            
+    button{
+
+                background-color: rgb(221, 31, 31);
+                font-size: 20px;
+                color: rgb(224, 235, 223);
+                border-radius: 5px;
+                font-style: oblique;
+                font-weight: 5000px;
+                width: 100px;
+                height: 40px;
+               
+                
+                
+                
+                }
+                button:hover{
+                    transform: scale(1.2);
+                    opacity: 50%;
+
+
+
+
+                }
+                select{
+                    height: 25px;
+                    width: 170px;
+                    border-radius: 5px;
+
+
+
+
+
+                }
+                option{
+                    height: 20px;
+                    width: 150px;
+
+
+
+
+                }
+                
